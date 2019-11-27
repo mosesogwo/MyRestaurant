@@ -1,0 +1,22 @@
+{
+  "name": "myrestaurant",
+  "version": "1.0.0",
+  "description": "A restaurant page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosesogwo/MyRestaurant.git"
+  },
+  "author": "Moses Ogwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosesogwo/MyRestaurant/issues"
+  },
+  "homepage": "https://github.com/mosesogwo/MyRestaurant#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2"
+  }
+}
