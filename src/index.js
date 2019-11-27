@@ -1,0 +1,1 @@
+alert('Congrats! Webpack is properly setup')
