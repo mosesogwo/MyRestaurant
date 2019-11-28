@@ -1,0 +1,30 @@
+{
+  "name": "myrestaurant",
+  "version": "1.0.0",
+  "description": "A restaurant page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosesogwo/MyRestaurant.git"
+  },
+  "author": "Moses Ogwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosesogwo/MyRestaurant/issues"
+  },
+  "homepage": "https://github.com/mosesogwo/MyRestaurant#readme",
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "file-loader": "^5.0.2",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
