@@ -1,5 +1,5 @@
 # MyRestaurant
-This project is a restaurant website created with html, css and javascript. The projects incorporates the use of ES6 Modules and webpack.
+This project is a restaurant website created with html, css and javascript. The projects features the use of ES6 Modules and webpack.
 
 The full project requirement is available on [the odin project](https://www.theodinproject.com/courses/javascript/lessons/restaurant-page).
 
