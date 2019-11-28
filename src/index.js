@@ -10,7 +10,8 @@ const loadPage = (() => {
   content.appendChild(addHeader());
   content.appendChild(addNav());
   const newDiv = document.createElement('div');
-  newDiv.classList.add("h-25", "mt-5");
+  // newDiv.classList.add("h-25", "mt-5");
+  newDiv.classList.add("tab");
   newDiv.appendChild(homeInfo());
   content.appendChild(newDiv);
 
