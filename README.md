@@ -3,6 +3,8 @@ This project is a restaurant website created with html, css and javascript. The 
 
 The full project requirement is available on [the odin project](https://www.theodinproject.com/courses/javascript/lessons/restaurant-page).
 
+## Live version
+A live version of this implementation of the project is available [here](https://mosesogwo.github.io/MyRestaurant/). 
 ## How to run
 - Clone this repository to your local machine using ```git@github.com:mosesogwo/MyRestaurant.git```.
 
