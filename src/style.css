@@ -13,9 +13,9 @@
 
 
  /* Custom CSS */
-.tab-content {
+#content {
   background-image: url(../src/foodbg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  height: 70vh;
+  height: 100vh;
 }
