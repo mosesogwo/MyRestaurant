@@ -4,7 +4,7 @@ import menuList from './menu';
 import contactInfo from './contact';
 import './style.css';
 
-const loadPage = (() => {
+loadPage = (() => {
   const content = document.querySelector('#content');
   content.classList.add('text-center', 'py-5');
   content.appendChild(addHeader());
